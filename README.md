@@ -85,7 +85,7 @@ REBOOT EVERYTHING.  Why not... I suggest full power cycle with a minimum of 30 s
 
 ## Calibration
 
-https://www.klipper3d.org/Config_checks.html
+[Stuff](https://www.klipper3d.org/Config_checks.html)
 
 ## Links
 
